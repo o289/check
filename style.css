@@ -14,7 +14,8 @@ a{
     text-align: center;
     text-decoration: none;
     font-size: clamp(10px, 1rem + 2vw, 30px);
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     margin: 30% auto;
     padding: 50px 0;
 }
