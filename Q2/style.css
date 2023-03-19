@@ -41,6 +41,8 @@ button{
 #correct.input img,
 #No_correct.input img{
     margin: 0 auto;
+    width: 400px;
+    height: 400px;
 }
 #correct h2,
 #No_correct h2,
