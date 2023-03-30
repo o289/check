@@ -6,6 +6,9 @@
     display: block;
     overflow-x: hidden;
 }
+.title{
+    display: none;
+}
 .quiz{
     position: relative;
 }
